@@ -1,0 +1,37 @@
+{
+  "summoner": {
+    "weapons": [
+      {
+        "id": 1,
+        "name": "Finch Staff",
+        "stage": "Pre-Hardmode"
+      },
+      {
+        "id": 2,
+        "name": "Imp Staff",
+        "stage": "Pre-Hardmode"
+      },
+      {
+        "id": 3,
+        "name": "Snapthorn",
+        "stage": "Pre-Hardmode"
+      },
+      {
+        "id": 4,
+        "name": "Terraprisma",
+        "stage": "Hardmode"
+      },
+      {
+        "id": 5,
+        "name": "Durendai",
+        "stage": "Hardmode"
+      }
+    ],
+    "armour": [
+      
+    ],
+    "accessories": [
+      
+    ]
+  }
+}
