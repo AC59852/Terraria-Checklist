@@ -1,29 +1,73 @@
 {
+  "bosses": {
+    "pre-hardmode": [
+      {
+        "id": "boss1",
+        "name": "Eye of Cthulhu",
+        "stage": "Pre-Hardmode"
+      }
+    ],
+
+    "hardmode": [
+      {
+        "id": "boss9",
+        "name": "The Destroyer",
+        "stage": "Hardmode"
+      }
+    ],
+
+    "event": [
+      {
+        "id": "boss21",
+        "name": "Dark Mage",
+        "stage": "Event"
+      }
+    ]
+  },
+  
+  "melee": {
+    "weapons": [],
+    "armour": [],
+    "accessories": []
+  },
+
+  "ranged": {
+    "weapons": [],
+    "armour": [],
+    "accessories": []
+  },
+
+  "mage": {
+    "weapons": [],
+    "armour": [],
+    "accessories": []
+  },
+
   "summoner": {
     "weapons": [
       {
-        "id": 1,
+        "id": "weapon1",
         "name": "Finch Staff",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 2,
+        "id": "weapon2",
         "name": "Imp Staff",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 3,
+        "id": "weapon3",
         "name": "Snapthorn",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 4,
+        "id": "weapon4",
         "name": "Terraprisma",
         "stage": "Hardmode"
       },
       {
-        "id": 5,
-        "name": "Durendai",
+        "id": "weapon5",
+        "name": "Durendal",
         "stage": "Hardmode"
       }
     ],
