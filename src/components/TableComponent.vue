@@ -66,16 +66,14 @@ methods: {
   },
 
   searchItem() {
-    let input = document.getElementById("tableSearch").value.toUpperCase()
+    let input = document.getElementById("tableSearch").value.toLowerCase()
     let content = document.querySelectorAll(".table__cell")
 
     content.forEach((item) => {
-      let name = item.querySelector(".table__link").innerText.toUpperCase()
-
-      if (name.indexOf(input) > -1) {
-        item.hidden = false
+      if (item.innerText.toLowerCase().includes(input)) {
+        item.style.display = "grid"
       } else {
-        item.hidden = true
+        item.style.display = "none"
       }
     })
   }
