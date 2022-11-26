@@ -28,6 +28,11 @@ const routes = [
     name: 'summoner',
     component: TrackerView
   },
+  {
+    path: '/bosses',
+    name: 'bosses',
+    component: TrackerView
+  }
 ]
 
 const router = createRouter({

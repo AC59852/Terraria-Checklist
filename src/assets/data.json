@@ -1,29 +1,992 @@
 {
+  "bosses": {
+    "pre-hardmode": [
+      {
+        "id": "boss1",
+        "name": "Eye of Cthulhu",
+        "stage": "Pre-Hardmode"
+      }
+    ],
+
+    "hardmode": [
+      {
+        "id": "boss9",
+        "name": "The Destroyer",
+        "stage": "Hardmode"
+      }
+    ],
+
+    "event": [
+      {
+        "id": "boss21",
+        "name": "Dark Mage",
+        "stage": "Event"
+      }
+    ]
+  },
+  
+  "melee": {
+    "weapons": [
+      {
+        "id": "weapon1",
+        "name": "Copper Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon2",
+        "name": "Wooden Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon3",
+        "name": "Tin Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon4",
+        "name": "Cactus Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon5",
+        "name": "Copper Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon6",
+        "name": "Iron Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon7",
+        "name": "Silver Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon8",
+        "name": "Iron Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon9",
+        "name": "Tungsten Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon10",
+        "name": "Lead Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon11",
+        "name": "Silver Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon12",
+        "name": "Gold Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon13",
+        "name": "Zombie Arm",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon14",
+        "name": "Bladed Glove",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon15",
+        "name": "Gold Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon16",
+        "name": "Platinum Shortsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon17",
+        "name": "Mandible Blade",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon18",
+        "name": "Platinum Broadsword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon19",
+        "name": "Gladius",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon20",
+        "name": "Bone Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon21",
+        "name": "Katana",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon22",
+        "name": "Candy Cane Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon23",
+        "name": "Ice Blade",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon24",
+        "name": "Bat Bat",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon25",
+        "name": "Light's Bane",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon26",
+        "name": "Tentacle Spike",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon27",
+        "name": "Exotic Scimitar",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon28",
+        "name": "Blood Butcherer",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon29",
+        "name": "Starfury",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon30",
+        "name": "Enchanted Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon31",
+        "name": "Enchanted Sword",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon32",
+        "name": "Purple Clubberfish",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon33",
+        "name": "Falcon Blade",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon34",
+        "name": "Blade of Grass",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon35",
+        "name": "Phaseblade",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon36",
+        "name": "Volcano",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon37",
+        "name": "Beekeeper",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon38",
+        "name": "Muramasa",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon39",
+        "name": "Night's Edge",
+        "stage": "Pre-Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon40",
+        "name": "Wooden Yoyo",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon41",
+        "name": "Rally",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon42",
+        "name": "Malaise",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon43",
+        "name": "Artery",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon44",
+        "name": "Amazon",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon45",
+        "name": "Code 1",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon46",
+        "name": "Valor",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon47",
+        "name": "Cascade",
+        "stage": "Pre-Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon48",
+        "name": "Spear",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon49",
+        "name": "Storm Spear",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon50",
+        "name": "Trident",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon51",
+        "name": "The Rotted Fork",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon52",
+        "name": "Swordfish",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon53",
+        "name": "Dark Lance",
+        "stage": "Pre-Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon54",
+        "name": "Wooden Boomerang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon55",
+        "name": "Enchanted Boomerang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon56",
+        "name": "Shroomerang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon57",
+        "name": "Trimarang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon58",
+        "name": "Fruitcake Chakram",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon59",
+        "name": "Bloody Machete",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon60",
+        "name": "Ice Boomerang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon61",
+        "name": "Thorn Chakram",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon62",
+        "name": "Flamarang",
+        "stage": "Pre-Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon63",
+        "name": "Chain Knife",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon64",
+        "name": "Mace",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon65",
+        "name": "Flaming Mace",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon66",
+        "name": "Ball O' Hurt",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon67",
+        "name": "The Meatball",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon68",
+        "name": "Blue Moon",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon69",
+        "name": "Sunfury",
+        "stage": "Pre-Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon70",
+        "name": "Slap Hand",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon71",
+        "name": "Cobalt Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon72",
+        "name": "Ice Sickle",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon73",
+        "name": "Breaker Blade",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon74",
+        "name": "Palladium Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon75",
+        "name": "Mythril Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon76",
+        "name": "Ham Bat",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon77",
+        "name": "Frost Brand",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon78",
+        "name": "Cutlass",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon79",
+        "name": "Orichalcum Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon80",
+        "name": "Beam Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon81",
+        "name": "Bladetongue",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon82",
+        "name": "Adamantite Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon83",
+        "name": "Titanium Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon84",
+        "name": "Fetid Baghnakhs",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon85",
+        "name": "Excalibur",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon86",
+        "name": "Brand of the Inferno",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon87",
+        "name": "True Night's Edge",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon88",
+        "name": "Seedler",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon89",
+        "name": "Chlorophyte Saber",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon90",
+        "name": "Death Sickle",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon91",
+        "name": "True Excalibur",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon92",
+        "name": "The Horseman's Blade",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon93",
+        "name": "Keybrand",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon94",
+        "name": "Psycho Knife",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon95",
+        "name": "Christmas Tree Sword",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon96",
+        "name": "Chlorophyte Claymore",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon97",
+        "name": "Terra Blade",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon98",
+        "name": "Influx Waver",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon99",
+        "name": "Flying Dragon",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon100",
+        "name": "Starlight",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon101",
+        "name": "Star Wrath",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon102",
+        "name": "Meowmere",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon103",
+        "name": "Zenith",
+        "stage": "Hardmode",
+        "type": "sword"
+      },
+      {
+        "id": "weapon104",
+        "name": "Format:C",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon105",
+        "name": "Gradient",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon106",
+        "name": "Chik",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon107",
+        "name": "Hel-Fire",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon108",
+        "name": "Amarok",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon109",
+        "name": "Code 2",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon110",
+        "name": "Yelets",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon111",
+        "name": "Red's Throw",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon112",
+        "name": "Valkyrie Yoyo",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon113",
+        "name": "Kraken",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon114",
+        "name": "The Eye of Cthulhu",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon115",
+        "name": "Terrarian",
+        "stage": "Hardmode",
+        "type": "yoyo"
+      },
+      {
+        "id": "weapon116",
+        "name": "Cobalt Naginata",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon116",
+        "name": "Palladium Pike",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon116",
+        "name": "Mythril Halberd",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon116",
+        "name": "Orichalcum Halberd",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon116",
+        "name": "Adamantite Glaive",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon117",
+        "name": "Titanium Trident",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon118",
+        "name": "Obsidian Swordfish",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon119",
+        "name": "Gungnir",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon120",
+        "name": "Ghastly Glaive",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon121",
+        "name": "Chlorophyte Partisan",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon122",
+        "name": "North Pole",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon123",
+        "name": "Jousting Lance",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon125",
+        "name": "Hallowed Jousting Lance",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon126",
+        "name": "Shadow Jousting Lance",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon127",
+        "name": "Solar Eruption",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon128",
+        "name": "Daybreak",
+        "stage": "Hardmode",
+        "type": "spear"
+      },
+      {
+        "id": "weapon129",
+        "name": "Flying Knife",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon130",
+        "name": "Bananarang",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon131",
+        "name": "Sergeant United Shield",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon132",
+        "name": "Light Disc",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon133",
+        "name": "Paladin's Hammer",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon134",
+        "name": "Possessed Hatchet",
+        "stage": "Hardmode",
+        "type": "boomerang"
+      },
+      {
+        "id": "weapon135",
+        "name": "Chain Guillotines",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon136",
+        "name": "Dao of Pao",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon137",
+        "name": "Anchor",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon138",
+        "name": "KO Cannon",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon139",
+        "name": "Drippler Crippler",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon140",
+        "name": "Flower Pow",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon141",
+        "name": "Golem Fist",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon142",
+        "name": "Flairon",
+        "stage": "Hardmode",
+        "type": "flail"
+      },
+      {
+        "id": "weapon143",
+        "name": "Terragrim",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon144",
+        "name": "Arkhalis",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon145",
+        "name": "Shadowflame Knife",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon146",
+        "name": "Sleepy Octopod",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon147",
+        "name": "Scourge of the Corruptor",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon148",
+        "name": "Vampire Knives",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon149",
+        "name": "Sky Dragon's Fury",
+        "stage": "Hardmode",
+        "type": "other"
+      }
+    ],
+    "armour": [
+      {
+        "id": "armour1",
+        "name": "Wood Armor",
+        "stage": "Pre-Hardmode"
+      }
+    ],
+    "accessories": []
+  },
+
+  "ranged": {
+    "weapons": [],
+    "armour": [],
+    "accessories": []
+  },
+
+  "mage": {
+    "weapons": [],
+    "armour": [],
+    "accessories": []
+  },
+
   "summoner": {
     "weapons": [
       {
-        "id": 1,
+        "id": "weapon1",
         "name": "Finch Staff",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 2,
+        "id": "weapon2",
         "name": "Imp Staff",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 3,
+        "id": "weapon3",
         "name": "Snapthorn",
         "stage": "Pre-Hardmode"
       },
       {
-        "id": 4,
+        "id": "weapon4",
         "name": "Terraprisma",
         "stage": "Hardmode"
       },
       {
-        "id": 5,
-        "name": "Durendai",
+        "id": "weapon5",
+        "name": "Durendal",
         "stage": "Hardmode"
       }
     ],
