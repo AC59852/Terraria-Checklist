@@ -951,13 +951,1089 @@
   },
 
   "ranged": {
-    "weapons": [],
+    "weapons": [
+      {
+        "id": "weapon1",
+        "name": "Wooden Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon2",
+        "name": "Copper Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon3",
+        "name": "Tin Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon4",
+        "name": "Iron Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon5",
+        "name": "Lead Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon6",
+        "name": "Silver Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon7",
+        "name": "Tungsten Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon8",
+        "name": "Gold Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon9",
+        "name": "Platinum Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon10",
+        "name": "Demon Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon11",
+        "name": "Tendon Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon12",
+        "name": "Blood Rain Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon13",
+        "name": "Molten Fury",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon14",
+        "name": "The Bee's Knees",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon15",
+        "name": "Hellwing Bow",
+        "stage": "Pre-Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon16",
+        "name": "Flare Gun",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon17",
+        "name": "Minishark",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon18",
+        "name": "Blowpipe",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon19",
+        "name": "Flintlock Pistol",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon20",
+        "name": "Snowball Cannon",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon21",
+        "name": "Boomstick",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon22",
+        "name": "Revolver",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon23",
+        "name": "Red Ryder",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon24",
+        "name": "Sandgun",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon25",
+        "name": "Musket",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon26",
+        "name": "The Undertaker",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon27",
+        "name": "Star Cannon",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon28",
+        "name": "Blowgun",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon29",
+        "name": "Quad-Barrel Shotgun",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon30",
+        "name": "Handgun",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon31",
+        "name": "Pew-matic Horn",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon32",
+        "name": "Phoenix Blaster",
+        "stage": "Pre-Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon33",
+        "name": "Snowball",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon34",
+        "name": "Shuriken",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon35",
+        "name": "Rotten Egg",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon36",
+        "name": "Throwing Knife",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon37",
+        "name": "Poisoned Knife",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon38",
+        "name": "Beenade",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon39",
+        "name": "Bone Throwing Knife",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon40",
+        "name": "Star Anise",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon41",
+        "name": "Javelin",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon42",
+        "name": "Frost Daggerfish",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon43",
+        "name": "Bone",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon44",
+        "name": "Molotov Cocktail",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon45",
+        "name": "Bone Javelin",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon46",
+        "name": "Happy Grenade",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon47",
+        "name": "Grenade",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon48",
+        "name": "Sticky Grenade",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon49",
+        "name": "Bouncy Grenade",
+        "stage": "Pre-Hardmode",
+        "type": "thrown"
+      },
+      {
+        "id": "weapon50",
+        "name": "Ale Tosser",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon51",
+        "name": "Bone Glove",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon52",
+        "name": "Paintball Gun",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon53",
+        "name": "Harpoon",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon54",
+        "name": "Daedalus Stormbow",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon55",
+        "name": "Ice Bow",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon56",
+        "name": "Shadowflame Bow",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon57",
+        "name": "Marrow",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon58",
+        "name": "Pulse Bow",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon59",
+        "name": "Phantom Phoenix",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon60",
+        "name": "Tsunami",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon61",
+        "name": "Aerial Bane",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon62",
+        "name": "Eventide",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon63",
+        "name": "Phantasm",
+        "stage": "Hardmode",
+        "type": "bow"
+      },
+      {
+        "id": "weapon64",
+        "name": "Cobalt Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon65",
+        "name": "Palladium Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon66",
+        "name": "Mythril Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon67",
+        "name": "Orichalcum Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon68",
+        "name": "Adamantite Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon69",
+        "name": "Titanium Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon70",
+        "name": "Hallowed Repeater",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon71",
+        "name": "Chlorophyte Shotbow",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon72",
+        "name": "Stake Launcher",
+        "stage": "Hardmode",
+        "type": "repeater"
+      },
+      {
+        "id": "weapon73",
+        "name": "Clockwork Assault Rifle",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon74",
+        "name": "Gatligator",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon75",
+        "name": "Shotgun",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon76",
+        "name": "Onyx Blaster",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon77",
+        "name": "Coin Gun",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon78",
+        "name": "Uzi",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon79",
+        "name": "Dart Rifle",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon80",
+        "name": "Dart Pistol",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon81",
+        "name": "Super Star Shooter",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon82",
+        "name": "Megashark",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon83",
+        "name": "Flamethrower",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon84",
+        "name": "Venus Magnum",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon85",
+        "name": "Tactical Shotgun",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon86",
+        "name": "Sniper Rifle",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon87",
+        "name": "Candy Corn Rifle",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon88",
+        "name": "Chain Gun",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon89",
+        "name": "Elf Melter",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon90",
+        "name": "Xenopopper",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon91",
+        "name": "Vortex Beater",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon92",
+        "name": "S.D.M.G.",
+        "stage": "Hardmode",
+        "type": "gun"
+      },
+      {
+        "id": "weapon93",
+        "name": "Grenade Launcher",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon94",
+        "name": "Proximity Mine Launcher",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon95",
+        "name": "Rocket Launcher",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon96",
+        "name": "Nail Gun",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon97",
+        "name": "Jack O' Lantern Launcher",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon98",
+        "name": "Snowman Cannon",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon99",
+        "name": "Stynger",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon100",
+        "name": "Electrosphere Launcher",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon101",
+        "name": "Celebration",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon102",
+        "name": "Celebration Mk2",
+        "stage": "Hardmode",
+        "type": "launcher"
+      },
+      {
+        "id": "weapon103",
+        "name": "Toxikarp",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon104",
+        "name": "Piranha Gun",
+        "stage": "Hardmode",
+        "type": "other"
+      }
+    ],
     "armour": [],
     "accessories": []
   },
 
   "mage": {
-    "weapons": [],
+    "weapons": [
+      {
+        "id": "weapon1",
+        "name": "Wand of Sparking",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon2",
+        "name": "Wand of Frosting",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon3",
+        "name": "Amethyst Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon4",
+        "name": "Topaz Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon5",
+        "name": "Sapphire Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon6",
+        "name": "Emerald Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon7",
+        "name": "Amber Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon8",
+        "name": "Ruby Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon9",
+        "name": "Diamond Staff",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon10",
+        "name": "Thunder Zapper",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon11",
+        "name": "Vilethorn",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon12",
+        "name": "Aqua Scepter",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon13",
+        "name": "Magic Missile",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon14",
+        "name": "Weather Pain",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon15",
+        "name": "Flamelash",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon16",
+        "name": "Flower of Fire",
+        "stage": "Pre-Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon17",
+        "name": "Gray Zapinator",
+        "stage": "Pre-Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon18",
+        "name": "Space Gun",
+        "stage": "Pre-Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon19",
+        "name": "Bee Gun",
+        "stage": "Pre-Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon20",
+        "name": "Demon Scythe",
+        "stage": "Pre-Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon21",
+        "name": "Book of Skulls",
+        "stage": "Pre-Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon22",
+        "name": "Water Bolt",
+        "stage": "Pre-Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon23",
+        "name": "Crimson Rod",
+        "stage": "Pre-Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon24",
+        "name": "Sky Fracture",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon25",
+        "name": "Meteor Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon26",
+        "name": "Crystal Serpent",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon27",
+        "name": "Crystal Vile Shard",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon28",
+        "name": "Life Drain",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon29",
+        "name": "Poison Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon30",
+        "name": "Frost Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon31",
+        "name": "Flower of Frost",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon32",
+        "name": "Unholy Trident",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon33",
+        "name": "Rainbow Rod",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon34",
+        "name": "Tome of Infinite Wisdom",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon35",
+        "name": "Nettle Burst",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon36",
+        "name": "Venom Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon37",
+        "name": "Shadowbeam Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon38",
+        "name": "Inferno Fork",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon39",
+        "name": "Spectre Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon40",
+        "name": "Bat Scepter",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon41",
+        "name": "Razorpine",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon42",
+        "name": "Blizzard Staff",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon43",
+        "name": "Resonance Scepter",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon44",
+        "name": "Staff of Earth",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon45",
+        "name": "Betsy's Wrath",
+        "stage": "Hardmode",
+        "type": "wand"
+      },
+      {
+        "id": "weapon46",
+        "name": "Laser Rifle",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon47",
+        "name": "Orange Zapinator",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon48",
+        "name": "Wasp Gun",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon49",
+        "name": "Leaf Blower",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon50",
+        "name": "Rainbow Gun",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon51",
+        "name": "Heat Ray",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon52",
+        "name": "Laser Machinegun",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon53",
+        "name": "Charged Blaster Cannon",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon54",
+        "name": "Bubble Gun",
+        "stage": "Hardmode",
+        "type": "magic gun"
+      },
+      {
+        "id": "weapon55",
+        "name": "Cursed Flames",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon56",
+        "name": "Golden Shower",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon57",
+        "name": "Crystal Storm",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon58",
+        "name": "Magnet Sphere",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon59",
+        "name": "Razorblade Typhoon",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon60",
+        "name": "Lunar Flare",
+        "stage": "Hardmode",
+        "type": "spell book"
+      },
+      {
+        "id": "weapon61",
+        "name": "Ice Rod",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon62",
+        "name": "Magic Dagger",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon63",
+        "name": "Medusa Head",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon64",
+        "name": "Clinger Staff",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon65",
+        "name": "Spirit Flame",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon66",
+        "name": "Shadowflame Hex Doll",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon67",
+        "name": "Blood Thorn",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon68",
+        "name": "Nimbus Rod",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon69",
+        "name": "Magical Harp",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon70",
+        "name": "Toxic Flask",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon71",
+        "name": "Nightglow",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon72",
+        "name": "Stellar Tune",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon73",
+        "name": "Nebula Arcanum",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon74",
+        "name": "Nebula Blaze",
+        "stage": "Hardmode",
+        "type": "other"
+      },
+      {
+        "id": "weapon75",
+        "name": "Last Prism",
+        "stage": "Hardmode",
+        "type": "other"
+      }
+    ],
     "armour": [],
     "accessories": []
   },
@@ -966,28 +2042,285 @@
     "weapons": [
       {
         "id": "weapon1",
-        "name": "Finch Staff",
-        "stage": "Pre-Hardmode"
+        "name": "Abigail's Flower",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
       },
       {
         "id": "weapon2",
-        "name": "Imp Staff",
-        "stage": "Pre-Hardmode"
+        "name": "Finch Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
       },
       {
         "id": "weapon3",
-        "name": "Snapthorn",
-        "stage": "Pre-Hardmode"
+        "name": "Flinx Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
       },
       {
         "id": "weapon4",
-        "name": "Terraprisma",
-        "stage": "Hardmode"
+        "name": "Slime Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
       },
       {
         "id": "weapon5",
+        "name": "Vampire Frog Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon6",
+        "name": "Hornet Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon7",
+        "name": "Imp Staff",
+        "stage": "Pre-Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon8",
+        "name": "Houndius Shootius",
+        "stage": "Pre-Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon9",
+        "name": "Lightning Aura Rod",
+        "stage": "Pre-Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon10",
+        "name": "Flameburst Rod",
+        "stage": "Pre-Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon11",
+        "name": "Explosive Trap Rod",
+        "stage": "Pre-Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon12",
+        "name": "Ballista Rod",
+        "stage": "Pre-Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon13",
+        "name": "Leather Whip",
+        "stage": "Pre-Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon14",
+        "name": "Snapthorn",
+        "stage": "Pre-Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon15",
+        "name": "Spinal Tap",
+        "stage": "Pre-Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon16",
+        "name": "Spider Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon17",
+        "name": "Sanguine Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon18",
+        "name": "Pirate Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon19",
+        "name": "Blade Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon20",
+        "name": "Optic Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon21",
+        "name": "Pygmy Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon22",
+        "name": "Desert Tiger Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon23",
+        "name": "Deadly Sphere Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon24",
+        "name": "Raven Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon25",
+        "name": "Xeno Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon26",
+        "name": "Tempest Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon27",
+        "name": "Stardust Dragon Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon28",
+        "name": "Stardust Cell Staff",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon29",
+        "name": "Terraprisma",
+        "stage": "Hardmode",
+        "type": "minion"
+      },
+      {
+        "id": "weapon30",
+        "name": "Queen Spider Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon31",
+        "name": "Staff of the Frost Hydra",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon32",
+        "name": "Lunar Portal Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon33",
+        "name": "Rainbow Crystal Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon34",
+        "name": "Lightning Aura Cane",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon35",
+        "name": "Flameburst Cane",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon36",
+        "name": "Explosive Trap Cane",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon37",
+        "name": "Ballista Cane",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon38",
+        "name": "Lightning Aura Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon39",
+        "name": "Flameburst Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon40",
+        "name": "Explosive Trap Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon41",
+        "name": "Ballista Staff",
+        "stage": "Hardmode",
+        "type": "sentry"
+      },
+      {
+        "id": "weapon42",
+        "name": "Firecracker",
+        "stage": "Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon43",
+        "name": "Cool Whip",
+        "stage": "Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon44",
         "name": "Durendal",
-        "stage": "Hardmode"
+        "stage": "Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon45",
+        "name": "Dark Harvest",
+        "stage": "Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon46",
+        "name": "Morning Star",
+        "stage": "Hardmode",
+        "type": "whip"
+      },
+      {
+        "id": "weapon47",
+        "name": "Kaleidoscope",
+        "stage": "Hardmode",
+        "type": "whip"
       }
     ],
     "armour": [
