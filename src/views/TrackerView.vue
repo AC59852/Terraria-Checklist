@@ -1,23 +1,26 @@
 <template>
-  <section id="tracker">
-    <h1>{{this.route.name}} content</h1>
-    <section id="content">
-      <iframe src="https://terraria.fandom.com/wiki/Guide:Class_setups" frameborder="0" class="content__web"></iframe>
-      <section id="items">
-        <div class="items__filters" v-if="route.name !== 'bosses'">
-          <button @click="filterContentAll()">all</button>
-          <button @click="filterContent($event)">weapons</button>
-          <button @click="filterContent($event)">armour</button>
-          <button @click="filterContent($event)">accessories</button>
-        </div>
-        <div v-else-if="route.name === 'bosses'" class="items__filters">
-          <button @click="filterContentAll()">all</button>
-          <button @click="filterContent($event)">pre-hardmode</button>
-          <button @click="filterContent($event)">hardmode</button>
-          <button @click="filterContent($event)">event</button>
-        </div>
-        <TableComponent :data="data" @loadContent="loadContent" @toggleChoice="toggleChoice"/>
-      </section>
+  <section id="tracker" class="home tracker">
+    <section class="selectors content">
+      <router-link to="/" class="tracker__link">Back</router-link>
+      <h1>{{this.route.name}} content</h1>
+      <div class="content__wrapper">
+        <iframe src="https://terraria.fandom.com/wiki/Guide:Class_setups" frameborder="0" class="content__web"></iframe>
+        <section class="items">
+          <div class="items__filters" v-if="route.name !== 'bosses'">
+            <button @click="filterContentAll()">all</button>
+            <button @click="filterContent($event)">weapons</button>
+            <button @click="filterContent($event)">accessories</button>
+            <button @click="filterContent($event)">armour</button>
+          </div>
+          <div v-else-if="route.name === 'bosses'" class="items__filters">
+            <button @click="filterContentAll()">all</button>
+            <button @click="filterContent($event)">pre-hardmode</button>
+            <button @click="filterContent($event)">hardmode</button>
+            <button @click="filterContent($event)">event</button>
+          </div>
+          <TableComponent :data="data" @loadContent="loadContent" @toggleChoice="toggleChoice"/>
+        </section>
+      </div>
     </section>
   </section>
 </template>
@@ -36,6 +39,10 @@ export default {
   },
 
   mounted() {
+    // convert the weapons object into an array
+    
+    console.log(this.data.weapons)
+
     // check if there is a local storage for the current route
     if (localStorage.getItem(`${this.route.name}Items`)) {
       // get the local storage and loop through it
@@ -59,7 +66,7 @@ export default {
     },
 
     filterContent(e) {
-      let label = e.target.innerText
+      let label = e.target.innerText.toLowerCase()
 
       let content = document.querySelectorAll(".table__content")
 

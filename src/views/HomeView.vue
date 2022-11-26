@@ -1,32 +1,34 @@
 <template>
   <div class="home">
-    <h1>Terraria Tracker</h1>
-    <section id="selectors">
-        <router-link to="/bosses" class="selectors__link">
-          <img src="/" >
-          <h2>Bosses</h2>
-          <h3>Boss Count: <span>{{ bossesKilled }}</span> / <span>{{ bosses }}</span></h3>
-        </router-link>
-        <router-link to="/melee" class="selectors__link">
-          <img src="/" >
-          <h2>Melee</h2>
-          <h3>Item Count: <span>{{ obtainedMeleeItems }}</span> / <span>{{ meleeItems }}</span></h3>
-        </router-link>
-        <router-link to="/ranged" class="selectors__link">
-          <img src="/" >
-          <h2>Ranged</h2>
-          <h3>Item Count: <span>{{ obtainedRangedItems }}</span> / <span>{{ rangedItems }}</span></h3>
-        </router-link>
-        <router-link to="/mage" class="selectors__link">
-          <img src="/" >
-          <h2>Mage</h2>
-          <h3>Item Count: <span>{{ obtainedMageItems }}</span> / <span>{{ mageItems }}</span></h3>
-        </router-link>
-        <router-link to="/summoner" class="selectors__link">
-          <img src="/" >
-          <h2>Summoner</h2>
-          <h3>Item Count: <span>{{ obtainedSummonerItems }}</span> / <span>{{ summonerItems }}</span></h3>
-        </router-link>
+    <section class="selectors">
+      <h1 class="title title--home">Terraria Tracker</h1>
+        <div class="selectors__wrapper">
+          <router-link to="/bosses" class="selectors__link">
+            <img src="/bosses.jpg" >
+            <h2>Bosses</h2>
+            <h3>Boss Count: <span>{{ bossesKilled }}</span> / <span>{{ bosses }}</span></h3>
+          </router-link>
+          <router-link to="/melee" class="selectors__link">
+            <img src="/melee.jpg" >
+            <h2>Melee</h2>
+            <h3>Item Count: <span>{{ obtainedMeleeItems }}</span> / <span>{{ meleeItems }}</span></h3>
+          </router-link>
+          <router-link to="/ranged" class="selectors__link">
+            <img src="/ranged.webp" >
+            <h2>Ranged</h2>
+            <h3>Item Count: <span>{{ obtainedRangedItems }}</span> / <span>{{ rangedItems }}</span></h3>
+          </router-link>
+          <router-link to="/mage" class="selectors__link">
+            <img src="/mage.webp" >
+            <h2>Mage</h2>
+            <h3>Item Count: <span>{{ obtainedMageItems }}</span> / <span>{{ mageItems }}</span></h3>
+          </router-link>
+          <router-link to="/summoner" class="selectors__link">
+            <img src="/summoner.jpg" >
+            <h2>Summoner</h2>
+            <h3>Item Count: <span>{{ obtainedSummonerItems }}</span> / <span>{{ summonerItems }}</span></h3>
+          </router-link>
+        </div>
     </section>
   </div>
 </template>
