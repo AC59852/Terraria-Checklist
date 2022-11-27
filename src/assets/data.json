@@ -943,8 +943,75 @@
     "armour": [
       {
         "id": "armour1",
-        "name": "Wood Armor",
-        "stage": "Pre-Hardmode"
+        "name": "Cactus Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour2",
+        "name": "Gladiator Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour3",
+        "name": "Molten Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour4",
+        "name": "Frost Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour5",
+        "name": "Squire Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour6",
+        "name": "Monk Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour7",
+        "name": "Turtle Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour8",
+        "name": "Beetle Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour9",
+        "name": "Valhalla Knight Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour10",
+        "name": "Shinobi Infiltrator Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour11",
+        "name": "Solar Flare Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour12",
+        "name": "Gi",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
       }
     ],
     "accessories": []
@@ -1577,7 +1644,50 @@
         "type": "other"
       }
     ],
-    "armour": [],
+    "armour": [
+      {
+        "id": "armour1",
+        "name": "Fossil Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour2",
+        "name": "Necro Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour3",
+        "name": "Frost Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour4",
+        "name": "Huntress Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour5",
+        "name": "Shroomite Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour6",
+        "name": "Red Riding Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour7",
+        "name": "Vortex Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      }
+    ],
     "accessories": []
   },
 
@@ -2034,7 +2144,134 @@
         "type": "other"
       }
     ],
-    "armour": [],
+    "armour": [
+      {
+        "id": "armour1",
+        "name": "Meteor Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour2",
+        "name": "Jungle Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour3",
+        "name": "Ancient Cobalt Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour4",
+        "name": "Forbidden Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour5",
+        "name": "Apprentice Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour6",
+        "name": "Spectre Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour7",
+        "name": "Dark Artist Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour8",
+        "name": "Nebula Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour9",
+        "name": "Magic Hat",
+        "stage": "Pre-Hardmode",
+        "type": "head"
+      },
+      {
+        "id": "armour10",
+        "name": "Wizard Hat",
+        "stage": "Pre-Hardmode",
+        "type": "head"
+      },
+      {
+        "id": "armour10",
+        "name": "Wizard Hat",
+        "stage": "Pre-Hardmode",
+        "type": "head"
+      },
+      {
+        "id": "armour10",
+        "name": "Wizard Hat",
+        "stage": "Pre-Hardmode",
+        "type": "head"
+      },
+      {
+        "id": "armour11",
+        "name": "Amethyst Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour12",
+        "name": "Amethyst Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour13",
+        "name": "Topaz Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour14",
+        "name": "Sapphire Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour15",
+        "name": "Emerald Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour16",
+        "name": "Ruby Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour17",
+        "name": "Amber Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour18",
+        "name": "Diamond Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      },
+      {
+        "id": "armour19",
+        "name": "Mystic Robe",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      }
+    ],
     "accessories": []
   },
 
@@ -2324,7 +2561,102 @@
       }
     ],
     "armour": [
-      
+      {
+        "id": "armour1",
+        "name": "Bee Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour2",
+        "name": "Obsidian Armor",
+        "stage": "Pre-Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour3",
+        "name": "Spider Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour4",
+        "name": "Forbidden Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour5",
+        "name": "Squire Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour6",
+        "name": "Monk Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour7",
+        "name": "Huntress Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour8",
+        "name": "Apprentice Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour9",
+        "name": "Tiki Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour10",
+        "name": "Spooky Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour11",
+        "name": "Valhalla Knight Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour12",
+        "name": "Shinobi Infiltrator Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour13",
+        "name": "Red Riding Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour14",
+        "name": "Dark Artist Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour15",
+        "name": "Stardust Armor",
+        "stage": "Hardmode",
+        "type": "armor set"
+      },
+      {
+        "id": "armour16",
+        "name": "Flinx Fur Coat",
+        "stage": "Pre-Hardmode",
+        "type": "chest"
+      }
     ],
     "accessories": [
       
